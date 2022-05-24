@@ -1,14 +1,11 @@
-# DCHMI-template
+# Digitization project: Grekernas och Romarnes Mytologi
 
-This is a template that was specifically designed to help students of the Digitising Cultural Heritage Materials (DCHM) course at the University of Borås publish their digitisation projects online with GitHub Pages. 
-But it can be used by anyone who wants to try GitHub Pages to publishing a simple HTML-based website.
+This is the repository for my digitization project for the course 'Digitising Cultural Heritage Materials' at the University of Borås. For this project I have digitized the book <i>Hufvuddragen af grekernas och romarnes mytologi by Hugo Bergstedt</i> from 1894. On the published site there is information about the project, the book and its author as well as a link to download a pdf-version of the digital copy of the book. My goal with this project have been to, with the help of digitization, preserve and make available the book in a digital form so that readers can interact with the content in the same way as they would with a physical copy. Therefore, I have provided a machine readable pdf-file so that readers can highlight, search or in other ways interact with the text. 
+OBS! As the book is in Swedish both the content and the webiste is in Swedish. 
+
+
 
 🚀[Visit the Website](https://woutdln.github.io/DCHM-template/) if you want to see what the published version of this repository looks like.
 
-An example of what the template can turn into can be found in Wout's [DIY-frankensTEIn](https://woutdln.github.io/DIY-frankensTEIn/index.html) repository.
-For more information on the template and how to get started yourself, please refer to [the repository's wiki](https://github.com/WoutDLN/DCHM-template/wiki).  
 
-## About the Developer
-This repository was originally developed by [Wout Dillen](https://github.com/WoutDLN) as a teaching tool in the Digitising Cultural Heritage Materials course at the [University of Borås](https://www.hb.se/), where he currently works as a Senior Lecturer in Library and Information Science. 
-He is also the Secretary of the [European Society of Textual Scholarship (ESTS)](https://textualscholarship.eu/), and part of the Executive Board of the [DH Benelux community](https://dhbenelux.org/). 
-He is also the General editor of the ESTS's journal [_Variants_](https://journals.openedition.org/variants/), and one of the editors of the [_DH Benelux Journal_](https://journal.dhbenelux.org/) – both Open Access publications.  
+
