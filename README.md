@@ -6,7 +6,7 @@ OBS! As the book is in Swedish, the website and its content is in Swedish.
 
 
 
-🚀[Visit the Website](https://woutdln.github.io/DCHM-template/) if you want to see what the published version of this repository looks like.
+🚀[Visit the Website](https://dchmje.github.io/digitizationproject/) if you want to see what the published version of this repository looks like.
 
 
 
